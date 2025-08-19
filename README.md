@@ -1,5 +1,5 @@
 # Linux-Commands
-Linux Commands for ec2 and devops 
+
 # File and Directory Management
 •	ls: List directory contents.
 
